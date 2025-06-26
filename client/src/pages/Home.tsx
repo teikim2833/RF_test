@@ -13,11 +13,11 @@ export default function Home() {
             <div className="space-y-8">
               <div className="space-y-4">
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
-                  혁신적인 솔루션으로<br />
+                  혁신적인 솔루션으로 송정섭<br />
                   <span className="text-sky-200">미래를 만들어갑니다</span>
                 </h1>
                 <p className="text-xl text-blue-100 max-w-lg">
-                  전문성과 신뢰를 바탕으로 고객에게 최고의 가치를 제공하는 
+                  전문성과 신뢰를 바탕으로 고객에게 최고의 가치를 제공하는
                   선도적인 기업입니다.
                 </p>
               </div>
@@ -35,9 +35,9 @@ export default function Home() {
               </div>
             </div>
             <div className="hidden lg:block">
-              <img 
-                src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600" 
-                alt="Modern office buildings representing innovation and growth" 
+              <img
+                src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+                alt="Modern office buildings representing innovation and growth"
                 className="rounded-2xl shadow-2xl w-full h-auto"
               />
             </div>
@@ -61,7 +61,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-slate-900 mb-4">혁신적 솔루션</h3>
               <p className="text-slate-600">
-                최신 기술과 창의적 사고를 결합하여 
+                최신 기술과 창의적 사고를 결합하여
                 고객의 비즈니스 성장을 가속화합니다.
               </p>
             </div>
@@ -71,7 +71,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-slate-900 mb-4">전문 팀</h3>
               <p className="text-slate-600">
-                각 분야의 전문가들이 모여 
+                각 분야의 전문가들이 모여
                 최고 품질의 서비스를 제공합니다.
               </p>
             </div>
@@ -81,7 +81,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-slate-900 mb-4">검증된 성과</h3>
               <p className="text-slate-600">
-                다양한 프로젝트를 통해 입증된 
+                다양한 프로젝트를 통해 입증된
                 실력과 신뢰할 수 있는 결과를 제공합니다.
               </p>
             </div>
@@ -95,7 +95,7 @@ export default function Home() {
           <div className="space-y-8">
             <h2 className="text-3xl sm:text-4xl font-bold">함께 성장하는 파트너가 되어보세요</h2>
             <p className="text-xl text-slate-300 max-w-2xl mx-auto">
-              저희와 함께 새로운 기회를 만들어가고 
+              저희와 함께 새로운 기회를 만들어가고
               비즈니스의 성공을 함께 이루어나가겠습니다.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
